@@ -1,0 +1,22 @@
+:root{
+    --bool-editorial: #45abea;
+    --bool-addtask: #47adf1;
+    --bool-tick: #cdebe5;
+    --bool-goal: #9c72e4;
+    --bool-recruiting: #64c0a9;
+    --bool-ex: #ec8985;
+    --bool-mobile: #f29e33;
+    --bool-website: #d863a1;
+    --bool-sales: #b0c926;
+}
+
+#logo_img{
+    display: inline-block;
+    vertical-align: middle;
+}
+.logo-text{
+    font-size: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+}
