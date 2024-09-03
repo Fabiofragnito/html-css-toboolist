@@ -20,3 +20,25 @@
     display: inline-block;
     vertical-align: middle;
 }
+
+.container{
+    width: 75%;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+#task_button{
+    color: white;
+    background-color: #47adf1;
+    border-radius: 5px;
+    border-color: #47adf1;
+    height: 30px;
+}
+
+#section_button{
+    color: lightgray;
+    background-color: white;
+    border-radius: 5px;
+    border-color:lightgray;
+    height: 30px;
+}
