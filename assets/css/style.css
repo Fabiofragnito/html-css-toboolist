@@ -48,18 +48,6 @@ hr{
     height: 30px;
 }
 
-.triangle-down {
-	width: 0;
-	height: 0;
-	border-left: 8px solid transparent;
-	border-right: 8px solid transparent;
-	border-top: 10px solid #555;
-    display: inline-block;
-    vertical-align: middle;
-    
-    
-    
-}
 
 .title{
     height: 20px;
